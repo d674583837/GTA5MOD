@@ -9655,7 +9655,7 @@
       <flags>FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
-	  <dashboardType>VDT_SUPERGT</dashboardType>
+	  <dashboardType>VDT_BANSHEE</dashboardType>
       <vehicleClass>VC_COUPE</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers />
@@ -35185,7 +35185,7 @@
       <child>rapidGT2</child>
     </Item>
     <Item>
-      <parent>vehicles_supergt_interior</parent>
+      <parent>vehicles_banshee_interior</parent>
       <child>f620</child>
     </Item>
     <Item>
