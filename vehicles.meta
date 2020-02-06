@@ -6733,7 +6733,7 @@
       <flags>FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-	  <dashboardType>VDT_TAILGATER</dashboardType>
+	  <dashboardType>VDT_RACE</dashboardType>
       <vehicleClass>VC_SPORT</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers />
