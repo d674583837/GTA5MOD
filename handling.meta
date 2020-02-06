@@ -1880,6 +1880,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
+      <handlingName>CARBONIZ</handlingName>
       <fMass value="1650.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="85.000000" />
