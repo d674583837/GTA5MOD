@@ -15022,7 +15022,7 @@
       <flags>FLAG_SPAWN_ON_TRAILER FLAG_AVERAGE_CAR</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
-      <dashboardType>VDT_FELTZER</dashboardType>
+      <dashboardType>VDT_GENTAXI</dashboardType>
       <vehicleClass>VC_SPORT</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
