@@ -11233,8 +11233,8 @@
       <modelName>gauntlet</modelName>
       <txdName>gauntlet</txdName>
       <handlingId>GAUNTLET</handlingId>
-      <gameName>GAUNTLET</gameName>
-      <vehicleMakeName>BRAVADO</vehicleMakeName>
+      <gameName>CAMARO</gameName>
+      <vehicleMakeName>zl12017</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -11297,20 +11297,20 @@
         500.000000
       </lodDistances>
       <minSeatHeight value="0.831" />
-      <identicalModelSpawnDistance value="20" />
+      <identicalModelSpawnDistance value="100" />
       <maxNumOfSameColor value="10" />
       <defaultBodyHealth value="1000.000000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
-      <weaponForceMult value="1.000000" />
+      <weaponForceMult value="2.000000" />
       <frequency value="90" />
       <swankness>SWANKNESS_3</swankness>
       <maxNum value="5" />
-      <flags>FLAG_CAN_HAVE_NEONS FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <flags>FLAG_CAN_HAVE_NEONS FLAG_SPORTS FLAG_HAS_LIVERY FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-	  <dashboardType>VDT_DUKES</dashboardType>
+	  <dashboardType>VDT_RACE</dashboardType>
       <vehicleClass>VC_MUSCLE</vehicleClass>
       <wheelType>VWT_MUSCLE</wheelType>
       <trailers />
@@ -34380,7 +34380,7 @@
 	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="-0.005000" />
 	  <FirstPersonMobilePhoneOffset x="0.135000" y="0.216000" z="0.523000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.158000" y="0.158000" z="0.416000" />
-      <PovCameraOffset x="0.000000" y="-0.190000" z="0.570000" />
+      <PovCameraOffset x="0.000000" y="-0.190000" z="0.630000" />
       <PovCameraVerticalAdjustmentForRollCage value="-0.010000" />
       <PovPassengerCameraOffset x="0.000000" y="-0.100000" z="0.000000" />
       <PovRearPassengerCameraOffset x="0.000000" y="-0.100000" z="0.000000" />
