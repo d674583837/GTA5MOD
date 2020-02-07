@@ -10198,7 +10198,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>WINDSOR</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>FELTZER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -10267,7 +10267,7 @@
       <flags>FLAG_SPORTS FLAG_EXTRAS_GANG FLAG_EXTRAS_RARE FLAG_EXTRAS_STRONG FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-      <dashboardType>VDT_FELTZER</dashboardType>
+      <dashboardType>VDT_TAILGATER</dashboardType>
       <vehicleClass>VC_SPORT</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
