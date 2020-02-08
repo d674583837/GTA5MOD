@@ -34467,10 +34467,9 @@
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
-      <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
-      <layout>LAYOUT_LOW_RESTRICTED</layout>
+      <audioNameHash>RAPIDGT</audioNameHash>
+      <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>VOLTIC_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -34495,7 +34494,7 @@
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.040000" />
       <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.040000" />
-      <vfxInfoName>VFXVEHICLEINFO_CAR_ELECTRIC</vfxInfoName>
+      <vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
       <shouldUseCinematicViewMode value="true" />
       <shouldCameraTransitionOnClimbUpDown value="false" />
       <shouldCameraIgnoreExiting value="false" />
@@ -34535,7 +34534,7 @@
       <frequency value="30" />
       <swankness>SWANKNESS_4</swankness>
       <maxNum value="4" />
-      <flags>FLAG_SPORTS FLAG_EXTRAS_CONVERTIBLE FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_IS_ELECTRIC FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <flags>FLAG_SPORTS FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_IS_ELECTRIC FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_SUPERGT</dashboardType>
