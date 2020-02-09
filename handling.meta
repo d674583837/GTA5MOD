@@ -12435,7 +12435,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>LAZER</handlingName>
+      <handlingName>lazer</handlingName>
       <fMass value="15000.000000" />
       <fInitialDragCoeff value="2.000000" />
       <fPercentSubmerged value="75.000000" />
@@ -12508,7 +12508,7 @@
           <vecSpeedRes x="0.020000" y="0.250000" z="0.015000" />
           <fGearDoorFrontOpen value="90.000000" />
           <fGearDoorRearOpen value="90.000000" />
-          <fGearDoorRearOpen2 value="15.000000" />
+          <fGearDoorRearOpen2 value="-50.000000" />
           <fGearDoorRearMOpen value="90.000000" />
           <fTurublenceMagnitudeMax value="10.000000" />
           <fTurublenceForceMulti value="0.000500" />
