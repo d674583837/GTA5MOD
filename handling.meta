@@ -12751,7 +12751,6 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-	<Item type="CHandlingData">
       <handlingName>shamal</handlingName>
       <fMass value="6400.000000" />
       <fInitialDragCoeff value="8.000000" />
